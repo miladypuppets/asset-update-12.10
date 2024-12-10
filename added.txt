@@ -1,0 +1,5 @@
+body/bulbasaur.png
+body/charizard.png
+body/eevee.png
+body/psyduck.png
+body/squirtle.png
